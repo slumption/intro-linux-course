@@ -15,7 +15,7 @@ Contents:
 
    Introduction
    Exercises
-   Logging in	
+   Logging in
    Terminal windows
    Logging out
    Important keys
