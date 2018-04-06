@@ -21,6 +21,7 @@ Contents:
    Important keys
    Navigating the CLI
    File naming
+   Storing files in Git
 
 Indices and tables
 ==================
