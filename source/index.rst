@@ -16,8 +16,8 @@ Contents:
    Introduction
    Exercises
    Logging in
-   Terminal windows
    Logging out
+   Terminal windows
    Important keys
    Navigating the CLI
    File naming
