@@ -7,7 +7,23 @@ Welcome to the begginers Linux training course
 
 =================================================
 
-Contents:
+Objectives
+
+After this course you should be able to:
+
+- Connect to a Unix / Linux system
+- Manipulate files and directories within the Linux system
+- Work with text files
+- Understand how to structure and write a simple shell script
+- Run programs from the command-line
+
+During this course you will learn about:
+- Navigating through a Unix file system
+- Creating and deleting files
+- Searching for files and for text within a file
+- Writing and executing simple shell scripts
+
+Format: Presentations and practicals
 
 .. toctree::
    :numbered:
