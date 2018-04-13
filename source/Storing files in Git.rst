@@ -1,2 +1,2 @@
-Sotring Files in Git
+Storing Files in Git
 ********************
